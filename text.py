@@ -1,2 +1,3 @@
 x = 20
-print(x)
+y = 30
+print(x+y)
